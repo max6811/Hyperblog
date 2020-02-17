@@ -1,0 +1,14 @@
+body{
+    color: black;
+    text-align: center;
+    font-family: "Arial";
+}
+.container{
+    padding-top: 10px;
+}
+#post{
+    color: green;
+}
+h1{
+    color: hotpink;
+}

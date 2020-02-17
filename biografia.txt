@@ -1,0 +1,11 @@
+Hello, my name is Max :)
+ esta es la historia de max 
+ nacio el 16 de septiembre
+
+ tengo 6811 anios
+
+  en camara parece alto, pero no es tan alto
+ 
+ hamblemos de la vida de max
+
+ git reset --soft
