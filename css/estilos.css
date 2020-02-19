@@ -6,6 +6,17 @@ body{
 #container{
     margin: 0.5em;
     padding: 5;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
 }
 #post{
     color: green;
@@ -13,3 +24,14 @@ body{
 h1{
     color: hotpink;
 }
+
+#cabecera{
+    background: blue;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+ span{
+     background: #DDD;
+ }
